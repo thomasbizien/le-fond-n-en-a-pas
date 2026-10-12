@@ -1,0 +1,9 @@
+Publication GitHub
+
+Remplacer index.html à la racine du dépôt.
+Conserver assets/ellipse.mp4 et placer Full mix avec narration.mp3 dans media/.
+Les 39 sous-titres du SRT mix valide sont intégrés dans index.html et affichés dans le cadre Transcription.
+Le MP3 pilote la lecture, la pause et la timeline. Toutes les vidéos du site sont muettes.
+
+ellipse_sous_titres.mp4 est une copie indépendante de la vidéo source avec les sous-titres incrustés et la narration MP3. Elle ne contient pas les cadres de la composition HTML.
+Le site utilise ellipse.mp4 et ses sous-titres séparés pour conserver le montage et éviter un double affichage.
